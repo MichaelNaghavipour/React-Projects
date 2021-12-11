@@ -1,4 +1,4 @@
-# ReactCourses
+# React Mini Projects
 
 My solutions to Projects from React Courses and Tutorials
 
